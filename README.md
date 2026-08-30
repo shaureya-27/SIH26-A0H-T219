@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T219
 ### Team Details
-#### **Team Name** <<AeroResQ>> <br/>
+#### **Team Name:AeroResQ** <<AeroResQ>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
