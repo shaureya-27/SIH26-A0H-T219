@@ -34,11 +34,11 @@
 * **Problem Statement ID:SIH26123**
 * **Problem Statement Title:Edge-AI Based Distributed Fleet Coordination for Autonomous Mobile Robots (AMRs) in Smart Warehouses**
 * **Theme / Category:Smart Automation/	Software**
-* **Ministry / Organization: Bharat Electronics Limited**
+* **Ministry / Organization: Bharat Electronics Limited/Bharat Electronics Limited**
 
 #### PS#2
 
-* **Problem Statement ID:SIH26192**
-* **Problem Statement Title:Flash Flood Prediction System for Hilly Regions using Multi-Source Data Theme**
-* **Theme / Category:Disaster Management/	Software**
-* **Ministry / Organization:Ministry of Home Affairs/	National Disaster Response Force (NDRF), DM Division**, 
+* **Problem Statement ID:SIH26178**
+* **Problem Statement Title:A resilient, AI-powered environmental monitoring network that provides early detection, localized intelligence, and actionable alerts for floods, forest fires, pollution events, and other environmental hazards common in India, enabling authorities and communities to shift from reactive disaster response to proactive risk prevention.**
+* **Theme / Category:Disaster Management/	Hardware**
+* **Ministry / Organization:Qualcomm Inc/	Qualcomm Inc**, 
