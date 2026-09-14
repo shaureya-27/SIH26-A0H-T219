@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:SIH26178**
-* **Problem Statement Title:A resilient, AI-powered environmental monitoring network that provides early detection, localized intelligence, and actionable alerts for floods, forest fires, pollution events, and other environmental hazards common in India, enabling authorities and communities to shift from reactive disaster response to proactive risk prevention.**
-* **Theme / Category:Disaster Management/	Hardware**
-* **Ministry / Organization:Qualcomm Inc/	Qualcomm Inc**, 
+* **Problem Statement ID:SIH26172**
+* **Problem Statement Title:Low Latency and Efficient Voice Activator for Edge Devices**
+* **Theme / Category:Smart Automation/	Hardware**
+* **Ministry / Organization:Department of Space / Indian Space Research Organisation/Indian Space Research Organisation(ISRO)**, 
